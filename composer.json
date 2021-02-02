@@ -1,0 +1,15 @@
+{
+	"name": "nczirjak-acdh/vufind-test",
+	"description": "VUFind Test",
+    	"type": "vufind plugin",    
+    	"license": "MIT",
+    	"authors": [
+	   {
+	    "name": "Norbert Czirjak",
+	    "email": "norbert.czirjak@oeaw.ac.at"
+	   }
+    	],
+    	"require": {
+        
+    	}
+}

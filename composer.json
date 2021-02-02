@@ -1,15 +1,18 @@
 {
-	"name": "nczirjak-acdh/vufind-test",
-	"description": "VUFind Test",
-    	"type": "vufind plugin",    
-    	"license": "MIT",
-    	"authors": [
-	   {
-	    "name": "Norbert Czirjak",
-	    "email": "norbert.czirjak@oeaw.ac.at"
-	   }
-    	],
-    	"require": {
-        
-    	}
+    "name": "nczirjak-acdh/vufind-test,
+    "description": "VUFind Test",
+    "type": "vufind-module",
+    "homepage": "https://github.com/nczirjak-acdh/acdh-vufind",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Norbert Czirjak",
+            "email": "norbert.czirjak@oeaw.ac.at"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {        
+    }
 }
+
